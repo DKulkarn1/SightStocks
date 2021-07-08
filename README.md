@@ -1,0 +1,2 @@
+# SightStocks
+Cofounded by Corwin Cheung and Dhruv Kulkarni. Email us at gmail@corwincheung.com for feedback and discounts. Sight Stocks is an online web application platform that provides deeper analytics for stocks and ETFs using artificial intelligence and machine learning algorithms. It is capable of doing trend analysis, technical analysis, and uses predictive measurements to give indicators for bullish and bearish conditions in the stock market.
